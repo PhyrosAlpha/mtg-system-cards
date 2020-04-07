@@ -6,7 +6,7 @@ MVC
 
 Technologies/toolkit:
 Programing language - JAVA
-SDBG - MYSQL
+DBMS - MYSQL
 Interface/View - JAVA Swing
 
 The first version will have some features that all tradicional systems get, it uses a database to store the data cards, the user can manage the register cards, his sigle collection (his collection cards) and his decks. We can already think in three main entities for data modeling:
