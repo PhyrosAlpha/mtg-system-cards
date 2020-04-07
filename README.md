@@ -9,7 +9,7 @@ Programing language - JAVA
 SDBG - MYSQL
 Interface/View - JAVA Swing
 
-The first version will have some features that all tradicional systems get, it uses a database to store the data cards, the user can manage the register cards, his sigle collection (his collection cards) and his decks. We can already thing in three main entities for data modeling:
+The first version will have some features that all tradicional systems get, it uses a database to store the data cards, the user can manage the register cards, his sigle collection (his collection cards) and his decks. We can already think in three main entities for data modeling:
 
 -CARD
 -DECK
